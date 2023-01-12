@@ -1,7 +1,9 @@
 [package]
 name = "openai-rs"
 version = "1.1.0"
-authors = ["Travis James"]
+homepage = "https://tribecore.io/openai-rs"
+repository = "https://github.com/gqadonis/openai-rs/"
+authors = ["Travis James <travis@tribehealthsolutions.com>"]
 description = "APIs for sampling from and fine-tuning language models"
 # Override this license by providing a License Object in the OpenAPI.
 license = "MIT"
