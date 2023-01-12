@@ -1,4 +1,4 @@
-# Rust API client for openapi-rs
+# Rust API client for openai-rs
 
 APIs for sampling from and fine-tuning language models
 
